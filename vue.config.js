@@ -1,3 +1,3 @@
 module.exports = {
-  publicPath: '/gh-pages/'
+  publicPath: 'silpo/gh-pages/'
 };
